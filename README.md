@@ -1,7 +1,7 @@
 # midterm-repo
 
-# Sneh Patel 1120227
-# Meet Parmar 1118204
+# Sneh Patel 1120227 branch USA
+# Meet Parmar 1118204 branch Canada
 
 ### wwelcome to our repo
 
